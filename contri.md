@@ -4,3 +4,4 @@
 - hello
 
 ## add this line now
+> git status -s
