@@ -1,3 +1,5 @@
 my project
 my project is a doc for learn git
 git status -s
+git diff
+git diff --staged
