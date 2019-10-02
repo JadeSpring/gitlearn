@@ -1,5 +1,6 @@
 my project
 my project is a doc for learn git
+this file log git command
 git status -s
 git diff
 git diff --staged
