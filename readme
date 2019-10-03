@@ -4,3 +4,4 @@ this file log git command
 git status -s
 git diff
 git diff --staged
+git commit -a
