@@ -5,3 +5,4 @@ git status -s
 git diff
 git diff --staged
 git commit -a
+git mv file_from file_to
