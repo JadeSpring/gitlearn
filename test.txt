@@ -1,5 +1,7 @@
-git is a very import soltware
+git is a very important soltware
 this line is added in 2nd oct
+let's learn git now !
+###### git command ##########
 git status
 git reset --hard HEAD^
 git reflog

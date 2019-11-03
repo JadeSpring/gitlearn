@@ -6,3 +6,4 @@ git status -s
 git rm
 git mv
 git log
+git diff
