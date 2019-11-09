@@ -7,3 +7,5 @@
 > git status -s
 
 ## git commit -a
+
+i will learn how to install linux
