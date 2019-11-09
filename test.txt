@@ -9,3 +9,5 @@ git log --pretty=oneline -10
 git remote add origin <remote git location>
 git push -u origin master
 git branch -a
+git merge
+git merge --no-ff
