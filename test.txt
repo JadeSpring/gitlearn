@@ -12,3 +12,4 @@ git branch -a
 git stash
 git stash list
 git stash pop
+git push origin --delete <branch>
