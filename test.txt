@@ -14,3 +14,4 @@ git merge --no-ff
 git stash
 git stash list
 git stash pop
+git push origin --delete <branch>
